@@ -4,7 +4,7 @@ This repository is dedicated to SQL MS projects including a general analysis of 
 
 ## Data Exploration and Data Cleaning Project - COVID-19 (Spanish)🩹
 
-This project focuses on exploring data related to COVID-19, specifically using data from the official WHO website ("Explore the global data on confirmed COVID-19 deaths").
+This project focuses on exploring data related to COVID-19.
 
 ### Source Data
 
